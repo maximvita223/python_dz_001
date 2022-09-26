@@ -3,6 +3,6 @@
 num_week = int(input('Введите номер дня недели - '))
 
 if num_week == 6 or num_week == 7:
-    input('ДА')
+    print('ДА')
 else:
-    input('Нет')
+    print('Нет')
